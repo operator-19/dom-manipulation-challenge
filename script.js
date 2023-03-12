@@ -6,8 +6,6 @@ content.textContent = 'This is a glorious text-content!';
 
 container.appendChild(content)
 
-// const pContainer = document.querySelector('#pContainer');
-
 const pContent = document.createElement('p')
 pContent.classList.add('pContent')
 pContent.textContent = "Hey I'm Red!"
